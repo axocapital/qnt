@@ -1,0 +1,35 @@
+{
+  "contract_name": "QNT_AI_Compute_Leasing",
+  "network": "Ethereum Layer 2 (Polygon)",
+  "tokens": {
+    "DART": {
+      "type": "ERC-721",
+      "backed_by": "AI Data Center Compute Grid",
+      "leasing_terms": {
+        "duration": "Per-Hour Billing",
+        "enterprise_clients": ["Fortune 500", "AI Startups", "Government AI Labs"],
+        "smart_contract_enforcement": "Automated payment & penalty system"
+      }
+    },
+    "QTE": {
+      "type": "ERC-721",
+      "use_case": "Quantum Secure AI Storage",
+      "access_rights": ["DeFi Funds", "Gov Institutions"]
+    }
+  },
+  "staking_mechanism": {
+    "investor_yield": {
+      "APR": "15%",
+      "auto_compound": true,
+      "reward_distribution": "Quarterly"
+    }
+  },
+  "security_compliance": {
+    "data_privacy": "GDPR & FCC Compliant",
+    "quantum_resistant_encryption": true
+  },
+  "exit_strategy": {
+    "options": ["IPO", "Buyout", "Equity Sale"],
+    "expected_timeline": "5-10 Years"
+  }
+}
